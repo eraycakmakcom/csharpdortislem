@@ -1,0 +1,13 @@
+C:\Users\eray.eray\source\repos\dortislem\bin\Debug\netcoreapp3.1\dortislem.exe
+C:\Users\eray.eray\source\repos\dortislem\bin\Debug\netcoreapp3.1\dortislem.deps.json
+C:\Users\eray.eray\source\repos\dortislem\bin\Debug\netcoreapp3.1\dortislem.runtimeconfig.json
+C:\Users\eray.eray\source\repos\dortislem\bin\Debug\netcoreapp3.1\dortislem.runtimeconfig.dev.json
+C:\Users\eray.eray\source\repos\dortislem\bin\Debug\netcoreapp3.1\dortislem.dll
+C:\Users\eray.eray\source\repos\dortislem\bin\Debug\netcoreapp3.1\dortislem.pdb
+C:\Users\eray.eray\source\repos\dortislem\obj\Debug\netcoreapp3.1\dortislem.csprojAssemblyReference.cache
+C:\Users\eray.eray\source\repos\dortislem\obj\Debug\netcoreapp3.1\dortislem.csproj.CoreCompileInputs.cache
+C:\Users\eray.eray\source\repos\dortislem\obj\Debug\netcoreapp3.1\dortislem.AssemblyInfoInputs.cache
+C:\Users\eray.eray\source\repos\dortislem\obj\Debug\netcoreapp3.1\dortislem.AssemblyInfo.cs
+C:\Users\eray.eray\source\repos\dortislem\obj\Debug\netcoreapp3.1\dortislem.dll
+C:\Users\eray.eray\source\repos\dortislem\obj\Debug\netcoreapp3.1\dortislem.pdb
+C:\Users\eray.eray\source\repos\dortislem\obj\Debug\netcoreapp3.1\dortislem.genruntimeconfig.cache
